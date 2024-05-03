@@ -1,11 +1,4 @@
 /*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 3/30/2024
-
-# Author: Dylan Theis
-# Date: Spring 2024
-# Class: CSC222
-# Project: Assignment 3
 # Description: 4x4 Knots and Crosses(Tic Tac Toe)
  */
 
